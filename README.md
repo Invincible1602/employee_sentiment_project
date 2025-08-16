@@ -34,7 +34,16 @@ This project analyzes employee communication data to assess sentiment and engage
 
 ### Repository Structure
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   employee_sentiment_project/  │  ├── data/                  # raw + processed datasets  ├── visualization/          # generated plots  ├── notebooks/              # main_notebook.ipynb  ├── report/                 # Employee_Sentiment_Analysis_Report.docx  ├── README.md               # summary file  └── requirements.txt        # dependencies   `
+```bash
+employee_sentiment_project/
+│
+├── data/                  # raw + processed datasets
+├── visualization/          # generated plots
+├── notebooks/              # main_notebook.ipynb
+├── report/                 # Employee_Sentiment_Analysis_Report.docx
+├── README.md               # summary file
+└── requirements.txt        # dependencies
+```
 
 ### How to Run
 
